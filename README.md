@@ -23,13 +23,24 @@
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Skills & Tools
 
-- **Languages:** Python, C, Java  
-- **Databases:** MySQL, SQL  
-- **Web Development:** HTML5, CSS  
-- **Operating Systems:** Windows, Linux  
-- **Tools & Libraries:** Pandas, NumPy, Scikit-learn, Streamlit
+#### 👩‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+#### 💾 Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-005C84?style=for-the-badge&logo=postgresql&logoColor=white)
+
+#### 🌐 Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+#### 🖥️ Operating Systems
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -39,11 +50,11 @@
 - ☁️ *AWS AI-ML Virtual Internship* — EduSkills  
 - 💻 *HTML5 & JavaScript* — Infosys Springboard
 
----
+
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/Pushpithatalla)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/Pushpithatalla)  
 📧 Email: [pushpithatalla@gmail.com](mailto:pushpithatalla@gmail.com)  
 📍 Location: Visakhapatnam, Andhra Pradesh, India  
 
